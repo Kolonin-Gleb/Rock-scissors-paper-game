@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Weapons images/Paper without background.png</file>
+        <file>Weapons images/Rock without background.png</file>
+        <file>Weapons images/Scissors without background.png</file>
+        <file>Other images/Main background.jpg</file>
+    </qresource>
+</RCC>
